@@ -27,7 +27,7 @@ body{
     
 }
 .logo{
-    background-image: url("/Tap/frontend/majorproject/imaes/Screenshot\ \(18\).png");
+    background-image: url("Screenshot\ \(18\).png");
     background-size: cover;
     height:40px;
     width:100%;
@@ -150,7 +150,7 @@ span{
 }
 /**hero-section**/
 .hero-section{
-    background-image:url("/Tap/frontend/majorproject/imaes/hero15.jpg");
+    background-image:url("hero15.jpg");
     background-size: cover;
     height:380px;  
     display:flex;
