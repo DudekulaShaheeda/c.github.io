@@ -386,7 +386,7 @@ ul a{
     align-items:center;
 }
 .logo1{
-    background-image: url("/Tap/frontend/majorproject/imaes/logo1.png");
+    background-image: url("logo1.png");
     background-size: cover;
     height:55px;
     width:150px;
