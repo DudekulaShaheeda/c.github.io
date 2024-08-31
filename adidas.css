@@ -111,7 +111,7 @@
     object-fit: cover;
    border-radius: 20px 20px 0 0 ;
 
- content: url("/Tap/frontend/majorproject/imaes/pexels-rdne-7685590.jpg");
+ content: url("pexels-rdne-7685590.jpg");
  
 }
 .im-card #one:hover{
@@ -120,7 +120,7 @@
     object-fit: cover;
    border-radius: 20px 20px 0 0 ;
 
- content: url("/Tap/frontend/majorproject/imaes/pexels-barathan-amuthan-1410982-2723623.jpg");
+ content: url("pexels-barathan-amuthan-1410982-2723623.jpg");
 
  
 }
@@ -130,7 +130,7 @@
     object-fit: cover;
    border-radius: 20px 20px 0 0 ;
  
- content: url("/Tap/frontend/majorproject/imaes/pexels-liliana-crijavetchi-1662058156-27849548.jpg");
+ content: url("pexels-liliana-crijavetchi-1662058156-27849548.jpg");
  
 }
 .im-card #three:hover{
@@ -139,6 +139,6 @@
     object-fit: cover;
    border-radius: 20px 20px 0 0 ;
  
- content: url("/Tap/frontend/majorproject/imaes/pexels-a-darmel-7176428.jpg");
+ content: url("pexels-a-darmel-7176428.jpg");
  
 }
