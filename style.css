@@ -216,7 +216,7 @@ span{
    
 }
 #one{
-    content: url("/Tap/frontend/majorproject/imaes/pexels-atulm0han-19869442.jpg");
+    content: url("pexels-atulm0han-19869442.jpg");
     height:300px;
     width: 100%;
     background-size: cover;
@@ -224,7 +224,7 @@ span{
     margin-bottom: 1rem;
 }
 #two{
-    content: url("/tap/frontend/majorproject/imaes/pexels-darkmodecinema-16556019.jpg");
+    content: url("pexels-darkmodecinema-16556019.jpg");
     height:300px;
     width: 100%;
     background-size: cover;
@@ -232,7 +232,7 @@ span{
     margin-bottom: 1rem;
 }
 #three{
-    content: url("/tap/frontend/majorproject/imaes/pexels-i-clal-capoglu-cinal-202384677-27742077.jpg");
+    content: url("pexels-i-clal-capoglu-cinal-202384677-27742077.jpg");
     height:300px;
     width: 100%;
     background-size: cover;
@@ -240,7 +240,7 @@ span{
     margin-bottom: 1rem;
 }
 #four{
-    content: url("/tap/frontend/majorproject/imaes/pexels-ihsanaditya-1445696.jpg");
+    content: url("pexels-ihsanaditya-1445696.jpg");
     height:300px;
     width: 100%;
     background-size: cover;
